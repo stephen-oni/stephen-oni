@@ -1,6 +1,6 @@
 ### Hi, I'm Stephen Oni 👋
 
-I'm a **Cloud & Network Infrastructure Engineer** and fourth-year Electrical & Electronics Engineering undergraduate at the **University of Ilorin (UNILORIN)**.
+I'm a **Cloud & Network Infrastructure Engineer** and fourth-year Electrical & Electronics Engineering undergraduate at the **University of Ilorin, Nigeria**.
 
 My work sits where **enterprise networking** meets **cloud automation**. After interning in Datacom at **Huawei**—configuring enterprise routers, switches, VLANs, OSPF, and wireless controllers—I started applying those same networking fundamentals to Linux servers, containers, and cloud infrastructure. Today, I spend my time building reproducible cloud environments, hardening reverse proxies, and writing Python automation tools so infrastructure runs reliably without manual guesswork.
 
