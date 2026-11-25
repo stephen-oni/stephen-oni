@@ -17,7 +17,7 @@ My work sits where **enterprise networking** meets **cloud automation**. After i
 ### Featured Projects
 - **[`neurogrid-devsecops-platform`](https://github.com/stephen-oni/neurogrid-devsecops-platform)** — Multi-tier infrastructure and observability platform on AWS automated with Terraform, Docker, GitHub Actions CI/CD, and zero-trust SSM orchestration.
 - **[`stenox-webhook-inspector`](https://github.com/stephen-oni/stenox-webhook-inspector)** — Automated NetDevOps webhook inspector and telemetry-driven configuration rollback workflow inspired by Huawei iMaster.
-- **Enterprise NAT & Campus Network Simulation (Huawei eNSP)** — Lab benchmarks comparing dynamic NAPT address pools against Easy IP edge translation across routed VLAN and wireless CAPWAP segments.
+- **[`Enterprise NAT & Campus Network Simulation`](https://github.com/stephen-oni/)****Enterprise NAT & Campus Network Simulation (Huawei eNSP)** — Lab benchmarks comparing dynamic NAPT address pools against Easy IP edge translation across routed VLAN and wireless CAPWAP segments.
 
 ---
 
